@@ -1,0 +1,23 @@
+# Frontend
+football-web-ai-analytics/node_modules/
+football-web-ai-analytics/dist/
+football-web-ai-analytics/.env
+
+# Backend
+FootballAnalyticsBackend/venv_tracking/
+FootballAnalyticsBackend/action_spotting/venv_action/
+FootballAnalyticsBackend/action_spotting/repo/
+FootballAnalyticsBackend/outputs/
+FootballAnalyticsBackend/uploads/
+FootballAnalyticsBackend/temp/
+FootballAnalyticsBackend/__pycache__/
+*.pyc
+*.json
+
+# Large AI Models and Videos (GitHub limit is 100MB)
+*.pt
+*.mp4
+
+# OS Files
+.DS_Store
+Thumbs.db

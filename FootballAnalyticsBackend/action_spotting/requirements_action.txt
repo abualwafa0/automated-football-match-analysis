@@ -1,0 +1,15 @@
+tqdm==4.65.0
+rosny==0.0.6
+numpy==1.26.4
+scipy>=1.13.0
+SoccerNet==0.1.51
+scikit-learn==1.2.2
+opencv-python==4.7.0.72
+torch
+timm==0.9.2
+kornia==0.6.12
+pytorch-argus==1.0.0
+hydra-core
+omegaconf
+einops
+pytorch-lightning
