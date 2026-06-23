@@ -1,4 +1,3 @@
-# automated-football-match-analysis
 
 
 # Automated Football Match Analysis
